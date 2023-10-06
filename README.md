@@ -1,3 +1,3 @@
 # Java-programmes
 <br>
-This repo have some pattern programs
+This repo have java programs
