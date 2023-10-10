@@ -2,7 +2,7 @@ import java.io.*;
 
 class Average {
     Console c = System.console();
-    //Firstly we take quantity of the numbers from the user
+    //Firstly we take number of elements from the user
     int num = Integer.parseInt(c.readLine("Enter the number elements :- "));
     //After that we declare array and some variables
     float arr[] = new float[num];
